@@ -1,0 +1,28 @@
+{
+  "name": "geoluminescence",
+  "version": "1.0.0",
+  "description": "A project for controlling lighting across a large geographic location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MkFoster/geoluminescence.git"
+  },
+  "keywords": [
+    "lights",
+    "geospatial",
+    "challenge"
+  ],
+  "author": "Mark Foster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MkFoster/geoluminescence/issues"
+  },
+  "homepage": "https://github.com/MkFoster/geoluminescence#readme",
+  "dependencies": {
+    "enttec-open-dmx-usb": "^4.0.1",
+    "express": "^4.18.2"
+  }
+}
